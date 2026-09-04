@@ -44,6 +44,8 @@ docs/
 ## 相關文件
 - [AGENTS.md](AGENTS.md) - 專案代理規範（每次執行後必須 commit）
 - [docs/flow.md](docs/flow.md) - 7 階段詳細說明
+- [docs/course-explorable-space.md](docs/course-explorable-space.md) - 你的課程：可探索的問題空間（五視角對照表）
+
 
 ## 本期挑戰：L2 跨角色照護資訊承接
 
@@ -52,3 +54,4 @@ docs/
 > - 設計：[05_解方設計/L2_機制設計.md](05_解方設計/L2_機制設計.md)
 > - 原型：[06_Prototype/L2_原型規格.md](06_Prototype/L2_原型規格.md)
 > - 驗證：[07_場域驗證/L2_驗證計畫.md](07_場域驗證/L2_驗證計畫.md)
+
